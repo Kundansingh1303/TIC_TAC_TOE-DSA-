@@ -105,6 +105,32 @@ This project helped me understand:
 B.Tech Computer Science and Engineering  
 Lovely Professional University (LPU)
 
+## 📸 Project Screenshots
+
+### Game Start
+![Game Start](ss-1.png)
+
+### First Move
+![First Move](ss-2.png)
+
+### Mid Game
+![Mid Game](ss-3.png)
+
+### AI Move
+![AI Move](ss-4.png)
+
+### End Game
+![End Game](ss-5.png)
+
+### Final Result
+![Final Result](ss-6.png)
+
+
+
+
+
+
+
 GitHub: https://github.com/Kundansingh1303
 
 ---
